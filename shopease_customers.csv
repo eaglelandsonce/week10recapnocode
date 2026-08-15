@@ -1,0 +1,101 @@
+customer_id,customer_name,email,age,gender,location,signup_date,last_purchase_date,total_orders,total_spent,avg_order_value,preferred_payment_method,payment_failures,loyalty_tier,churn_risk
+CUST0001,Samantha Davis,samantha.davis13@yahoo.com,30,Male,"El Paso, TX",2025-01-21,2025-05-22,5,137.25,29.98,Google Pay,0,Bronze,High
+CUST0002,Brenda Gonzalez,brenda.gonzalez93@yahoo.com,50,Non-binary,"Dallas, TX",2022-01-14,2026-06-11,55,7633.04,154.78,PayPal,0,Gold,Low
+CUST0003,Elizabeth Harris,elizabeth.harris22@gmail.com,44,Non-binary,"Dallas, TX",2022-03-30,2026-05-18,16,6308.47,409.19,Google Pay,2,Gold,Low
+CUST0004,Benjamin Flores,benjamin.flores56@outlook.com,24,Female,"Atlanta, GA",2023-08-16,2026-04-28,30,10594.68,366.33,Apple Pay,2,Platinum,Low
+CUST0005,Christopher White,christopher.white55@gmail.com,39,Male,"Nashville, TN",2022-12-17,2026-03-23,21,3985.01,203.83,Buy Now Pay Later,1,Gold,Medium
+CUST0006,Debra Lee,debra.lee17@gmail.com,24,Male,"Fort Worth, TX",2023-07-03,2025-03-09,41,4241.7,103.48,Buy Now Pay Later,7,Gold,High
+CUST0007,Charles Taylor,charles.taylor27@gmail.com,57,Non-binary,"Dallas, TX",2025-04-12,2026-02-08,52,9771.67,163.52,Debit Card,3,Platinum,Medium
+CUST0008,Elizabeth Carter,elizabeth.carter16@yahoo.com,32,Female,"Nashville, TN",2022-05-11,2026-02-06,60,15798.2,230.7,Credit Card,0,Platinum,Medium
+CUST0009,Debra Wright,debra.wright44@yahoo.com,40,Female,"Philadelphia, PA",2024-07-18,2025-08-12,65,21128.73,324.31,Credit Card,4,Platinum,High
+CUST0010,Samantha Allen,samantha.allen87@gmail.com,45,Female,"Seattle, WA",2024-12-22,2026-05-14,42,7957.03,214.42,PayPal,2,Gold,Low
+CUST0011,Donald Brown,donald.brown40@outlook.com,27,Female,"Chicago, IL",2024-12-26,2026-06-13,85,18035.6,209.06,PayPal,3,Platinum,Low
+CUST0012,Margaret Wright,margaret.wright98@gmail.com,41,Female,"El Paso, TX",2024-02-04,2026-02-16,58,3545.9,66.64,PayPal,0,Gold,Medium
+CUST0013,Emma Scott,emma.scott39@yahoo.com,62,Male,"San Diego, CA",2022-05-19,2026-04-27,43,1841.55,46.48,Buy Now Pay Later,3,Silver,Low
+CUST0014,Thomas Campbell,thomas.campbell83@yahoo.com,52,Female,"San Antonio, TX",2022-07-13,2025-05-18,46,8575.2,188.28,Buy Now Pay Later,0,Platinum,High
+CUST0015,Gregory Adams,gregory.adams92@gmail.com,47,Male,"Houston, TX",2023-05-25,2025-03-25,58,3902.83,74.35,Apple Pay,3,Gold,High
+CUST0016,Barbara Lewis,barbara.lewis80@gmail.com,63,Non-binary,"New York, NY",2022-07-11,2026-04-28,31,2619.33,84.86,Debit Card,3,Silver,Low
+CUST0017,Linda Hernandez,linda.hernandez58@gmail.com,46,Male,"Charlotte, NC",2023-08-08,2026-01-20,72,20371.26,284.07,Debit Card,2,Platinum,Medium
+CUST0018,Margaret Brown,margaret.brown84@yahoo.com,42,Male,"Los Angeles, CA",2025-04-11,2025-12-27,68,6291.84,81.29,Credit Card,1,Gold,Medium
+CUST0019,William Hill,william.hill18@yahoo.com,29,Non-binary,"San Diego, CA",2025-03-31,2026-05-13,11,2103.33,186.53,Google Pay,2,Silver,Low
+CUST0020,Dorothy Wilson,dorothy.wilson95@yahoo.com,47,Female,"El Paso, TX",2023-09-07,2025-12-26,10,225.3,21.74,Google Pay,0,Bronze,Medium
+CUST0021,Barbara Wright,barbara.wright37@yahoo.com,44,Male,"San Diego, CA",2024-01-27,2026-02-26,70,21762.89,300.82,Buy Now Pay Later,0,Platinum,Medium
+CUST0022,Christine Scott,christine.scott48@yahoo.com,30,Male,"Houston, TX",2022-08-08,2026-06-12,35,4195.6,131.27,PayPal,1,Gold,Low
+CUST0023,Debra Green,debra.green43@yahoo.com,25,Male,"Oklahoma City, OK",2024-05-17,2026-06-19,1,135.25,152.09,PayPal,1,Bronze,Low
+CUST0024,Jeffrey Scott,jeffrey.scott64@yahoo.com,31,Non-binary,"Los Angeles, CA",2024-01-27,2026-06-12,56,3653.87,69.23,Credit Card,2,Gold,Low
+CUST0025,Anthony Baker,anthony.baker41@yahoo.com,57,Female,"Nashville, TN",2022-11-13,2026-06-06,21,9422.6,410.43,Apple Pay,0,Platinum,Low
+CUST0026,Daniel Mitchell,daniel.mitchell52@yahoo.com,64,Female,"Dallas, TX",2022-11-23,2026-06-15,49,20004.95,368.61,Debit Card,1,Platinum,Low
+CUST0027,Ryan Thompson,ryan.thompson49@outlook.com,36,Male,"El Paso, TX",2023-01-31,2026-03-19,9,3417.68,406.69,Buy Now Pay Later,3,Silver,Medium
+CUST0028,Gregory Wright,gregory.wright52@yahoo.com,38,Female,"Denver, CO",2023-06-28,2025-02-22,56,9545.66,156.97,Apple Pay,8,Platinum,High
+CUST0029,Joseph Harris,joseph.harris83@gmail.com,24,Female,"New York, NY",2024-11-30,2026-05-18,26,3723.42,164.42,Buy Now Pay Later,2,Gold,Low
+CUST0030,Helen Lee,helen.lee94@outlook.com,41,Non-binary,"San Jose, CA",2024-04-16,2026-01-24,38,8306.88,240.87,Buy Now Pay Later,3,Platinum,Medium
+CUST0031,Gregory Mitchell,gregory.mitchell32@yahoo.com,57,Male,"San Jose, CA",2023-08-11,2025-03-03,78,21702.45,281.19,Apple Pay,3,Platinum,High
+CUST0032,Angela Walker,angela.walker31@yahoo.com,64,Non-binary,"Austin, TX",2022-07-11,2026-05-04,31,8203.56,288.46,Debit Card,1,Platinum,Low
+CUST0033,Patricia Williams,patricia.williams41@outlook.com,26,Female,"Columbus, OH",2025-03-24,2025-04-06,64,10225.31,178.66,Buy Now Pay Later,0,Platinum,High
+CUST0034,Susan Roberts,susan.roberts64@gmail.com,55,Female,"Los Angeles, CA",2025-02-15,2025-10-23,59,4179.59,71.6,Google Pay,8,Gold,High
+CUST0035,Scott Lee,scott.lee66@outlook.com,54,Female,"Seattle, WA",2024-07-02,2026-05-05,61,13051.3,198.93,Buy Now Pay Later,2,Platinum,Low
+CUST0036,Eric Young,eric.young90@gmail.com,50,Male,"Boston, MA",2023-08-09,2025-07-06,41,13512.1,377.0,Debit Card,3,Platinum,High
+CUST0037,Deborah Hall,deborah.hall29@yahoo.com,48,Male,"Seattle, WA",2024-08-12,2026-03-28,54,10189.77,174.57,Buy Now Pay Later,0,Platinum,Medium
+CUST0038,Pamela Harris,pamela.harris71@gmail.com,44,Male,"Atlanta, GA",2024-03-09,2026-04-29,54,13546.26,234.36,Google Pay,1,Platinum,Low
+CUST0039,Gary Anderson,gary.anderson44@gmail.com,23,Female,"Austin, TX",2024-04-08,2026-04-29,60,26614.02,387.66,Google Pay,0,Platinum,Low
+CUST0040,Ronald Nguyen,ronald.nguyen82@yahoo.com,49,Female,"Charlotte, NC",2023-01-08,2025-06-13,42,4104.86,103.09,Apple Pay,4,Gold,High
+CUST0041,Rebecca Taylor,rebecca.taylor20@gmail.com,56,Male,"Jacksonville, FL",2023-04-05,2026-05-03,84,2467.18,34.18,Debit Card,1,Silver,Low
+CUST0042,John Flores,john.flores29@gmail.com,52,Male,"Denver, CO",2023-03-23,2026-03-22,48,4233.57,85.45,Buy Now Pay Later,0,Gold,Medium
+CUST0043,Christopher Martin,christopher.martin23@outlook.com,58,Female,"Fort Worth, TX",2023-02-11,2025-01-05,81,9920.1,115.63,PayPal,1,Platinum,High
+CUST0044,Larry Williams,larry.williams54@outlook.com,26,Non-binary,"Oklahoma City, OK",2023-11-30,2025-05-23,63,4333.37,60.43,Buy Now Pay Later,7,Gold,High
+CUST0045,Karen Ramirez,karen.ramirez32@outlook.com,39,Non-binary,"Seattle, WA",2024-09-17,2026-01-08,76,10578.0,125.9,Credit Card,2,Platinum,Medium
+CUST0046,Laura Thomas,laura.thomas69@outlook.com,43,Male,"Indianapolis, IN",2023-10-28,2025-09-07,46,14835.25,338.73,Google Pay,4,Platinum,High
+CUST0047,Brenda Smith,brenda.smith76@yahoo.com,48,Female,"Seattle, WA",2023-05-08,2026-05-11,63,10676.59,198.17,PayPal,1,Platinum,Low
+CUST0048,Stephanie Hall,stephanie.hall41@gmail.com,59,Male,"Indianapolis, IN",2025-02-07,2026-02-28,71,11371.94,150.98,PayPal,2,Platinum,Medium
+CUST0049,Steven Anderson,steven.anderson25@yahoo.com,56,Female,"San Antonio, TX",2023-03-20,2026-06-04,76,31436.24,410.6,PayPal,0,Platinum,Low
+CUST0050,Matthew Jackson,matthew.jackson39@gmail.com,41,Male,"Boston, MA",2024-12-29,2025-12-01,7,1782.83,240.45,Debit Card,7,Silver,High
+CUST0051,Susan Smith,susan.smith83@gmail.com,52,Female,"Austin, TX",2023-01-13,2026-06-05,62,3443.04,63.86,Apple Pay,0,Silver,Low
+CUST0052,Pamela Green,pamela.green97@gmail.com,31,Non-binary,"San Jose, CA",2022-06-24,2026-06-14,72,24169.38,325.31,Google Pay,1,Platinum,Low
+CUST0053,Eric Harris,eric.harris67@yahoo.com,59,Female,"San Jose, CA",2025-03-10,2026-05-13,13,4731.46,398.93,Debit Card,2,Gold,Low
+CUST0054,Raymond Garcia,raymond.garcia30@gmail.com,57,Male,"Philadelphia, PA",2022-01-06,2026-01-25,77,13697.6,206.9,PayPal,2,Platinum,Medium
+CUST0055,Rachel Robinson,rachel.robinson19@outlook.com,62,Non-binary,"El Paso, TX",2023-02-10,2026-02-13,29,9061.18,278.35,Debit Card,0,Platinum,Medium
+CUST0056,Donna Hill,donna.hill82@yahoo.com,51,Male,"Boston, MA",2024-04-04,2026-05-20,70,13248.09,216.51,Credit Card,3,Platinum,Low
+CUST0057,Michelle Hill,michelle.hill42@gmail.com,36,Non-binary,"Denver, CO",2022-02-12,2026-05-09,35,9427.44,249.65,Debit Card,3,Platinum,Low
+CUST0058,Eric Adams,eric.adams66@yahoo.com,59,Female,"Oklahoma City, OK",2024-10-04,2026-05-22,45,7757.15,182.16,Credit Card,1,Gold,Low
+CUST0059,Kevin Clark,kevin.clark98@gmail.com,64,Female,"Atlanta, GA",2025-01-31,2025-11-09,41,4333.51,119.46,Apple Pay,8,Gold,High
+CUST0060,James Nelson,james.nelson79@gmail.com,25,Female,"San Francisco, CA",2024-01-11,2026-05-21,81,13719.39,195.7,PayPal,1,Platinum,Low
+CUST0061,Andrew Lewis,andrew.lewis99@gmail.com,23,Non-binary,"San Diego, CA",2022-11-21,2026-04-22,71,11855.43,182.01,Credit Card,3,Platinum,Medium
+CUST0062,Jessica Adams,jessica.adams29@gmail.com,40,Non-binary,"Boston, MA",2023-07-14,2026-02-21,61,7183.59,115.98,Apple Pay,1,Gold,Medium
+CUST0063,Scott Allen,scott.allen27@yahoo.com,48,Male,"San Francisco, CA",2023-07-02,2026-06-03,39,14163.78,354.67,Buy Now Pay Later,3,Platinum,Low
+CUST0064,Karen Lewis,karen.lewis78@gmail.com,43,Non-binary,"Atlanta, GA",2025-01-17,2025-12-25,42,17665.07,367.58,Debit Card,3,Platinum,Medium
+CUST0065,Sandra Roberts,sandra.roberts62@gmail.com,52,Female,"Fort Worth, TX",2022-11-08,2026-04-19,17,3839.79,219.92,Credit Card,3,Gold,Medium
+CUST0066,Richard King,richard.king68@gmail.com,31,Female,"Oklahoma City, OK",2022-11-13,2025-08-11,44,11452.79,268.55,Credit Card,5,Platinum,High
+CUST0067,Timothy Lee,timothy.lee90@outlook.com,56,Male,"Nashville, TN",2022-05-21,2025-01-08,37,16649.49,418.97,Apple Pay,1,Platinum,High
+CUST0068,Samantha Rivera,samantha.rivera22@gmail.com,41,Male,"Los Angeles, CA",2023-10-27,2026-06-03,46,6934.65,168.69,Google Pay,3,Gold,Low
+CUST0069,Larry Baker,larry.baker33@gmail.com,27,Non-binary,"Fort Worth, TX",2023-05-09,2026-02-08,19,2202.98,111.34,Apple Pay,2,Silver,Medium
+CUST0070,Christine Smith,christine.smith69@outlook.com,32,Male,"Charlotte, NC",2023-12-09,2026-06-02,82,35083.56,404.74,Apple Pay,2,Platinum,Low
+CUST0071,Betty Harris,betty.harris71@gmail.com,46,Non-binary,"Jacksonville, FL",2025-03-23,2026-01-24,38,1120.07,26.82,Apple Pay,2,Silver,Medium
+CUST0072,Mary Torres,mary.torres97@outlook.com,60,Female,"San Jose, CA",2023-04-17,2026-05-30,29,8231.78,273.92,Buy Now Pay Later,1,Platinum,Low
+CUST0073,Benjamin Miller,benjamin.miller90@yahoo.com,50,Male,"Denver, CO",2024-01-18,2026-06-16,38,5531.07,149.34,Debit Card,1,Gold,Low
+CUST0074,Anna White,anna.white77@yahoo.com,32,Male,"Indianapolis, IN",2023-08-28,2026-05-31,15,2699.84,206.27,Debit Card,3,Silver,Low
+CUST0075,Brenda White,brenda.white21@yahoo.com,56,Male,"Charlotte, NC",2024-01-25,2026-05-09,34,9433.66,252.99,PayPal,0,Platinum,Low
+CUST0076,Gregory Anderson,gregory.anderson70@gmail.com,57,Male,"Nashville, TN",2023-03-30,2026-05-12,60,21648.47,383.57,Apple Pay,0,Platinum,Low
+CUST0077,Sarah Williams,sarah.williams14@gmail.com,53,Male,"Houston, TX",2023-04-26,2026-06-13,50,10530.38,200.36,Buy Now Pay Later,3,Platinum,Low
+CUST0078,Emma Mitchell,emma.mitchell29@outlook.com,53,Non-binary,"Columbus, OH",2023-07-27,2025-06-18,28,6237.42,196.24,PayPal,1,Gold,High
+CUST0079,Debra White,debra.white79@outlook.com,25,Female,"Dallas, TX",2023-01-24,2026-04-28,59,2956.65,54.85,Buy Now Pay Later,0,Silver,Low
+CUST0080,Michael Perez,michael.perez41@outlook.com,35,Male,"Atlanta, GA",2025-02-09,2025-09-05,30,4026.34,150.08,Google Pay,0,Gold,High
+CUST0081,Kimberly Martinez,kimberly.martinez26@outlook.com,29,Male,"Phoenix, AZ",2022-01-31,2026-01-13,31,6749.26,254.72,PayPal,0,Gold,Medium
+CUST0082,Thomas Mitchell,thomas.mitchell63@outlook.com,52,Female,"Atlanta, GA",2024-01-12,2026-04-10,58,14500.56,220.54,Credit Card,2,Platinum,Medium
+CUST0083,Ryan Adams,ryan.adams13@gmail.com,52,Female,"Columbus, OH",2022-08-10,2025-12-28,57,2368.99,47.54,Google Pay,1,Silver,Medium
+CUST0084,William Rodriguez,william.rodriguez45@outlook.com,42,Female,"Nashville, TN",2024-12-22,2026-02-18,78,16202.87,190.94,Credit Card,1,Platinum,Medium
+CUST0085,Sharon Lewis,sharon.lewis39@gmail.com,51,Female,"Columbus, OH",2022-07-14,2026-03-14,33,4980.16,168.47,Apple Pay,0,Gold,Medium
+CUST0086,Elizabeth Garcia,elizabeth.garcia21@gmail.com,45,Female,"Seattle, WA",2022-05-03,2026-05-17,72,9609.23,150.52,PayPal,3,Platinum,Low
+CUST0087,Michael Jackson,michael.jackson86@gmail.com,28,Non-binary,"San Francisco, CA",2023-03-12,2025-04-22,29,9931.78,358.6,Google Pay,5,Platinum,High
+CUST0088,Joseph Carter,joseph.carter45@outlook.com,57,Non-binary,"Nashville, TN",2025-02-14,2025-03-13,35,966.84,29.64,PayPal,5,Bronze,High
+CUST0089,Brian Smith,brian.smith33@outlook.com,47,Male,"Phoenix, AZ",2022-03-04,2025-03-28,28,4672.55,169.23,Debit Card,5,Gold,High
+CUST0090,Donna Campbell,donna.campbell51@outlook.com,27,Male,"Phoenix, AZ",2022-11-19,2026-06-18,11,1469.37,127.39,Apple Pay,3,Silver,Low
+CUST0091,Rebecca Moore,rebecca.moore37@yahoo.com,49,Male,"San Jose, CA",2025-04-29,2026-01-28,40,1404.83,36.26,Google Pay,0,Silver,Medium
+CUST0092,James Wilson,james.wilson48@outlook.com,38,Male,"Austin, TX",2022-09-03,2025-05-18,23,1624.11,69.93,Debit Card,8,Silver,High
+CUST0093,Brenda Nelson,brenda.nelson55@gmail.com,24,Female,"New York, NY",2024-07-30,2026-04-27,41,10453.08,249.46,Buy Now Pay Later,3,Platinum,Low
+CUST0094,Emily Davis,emily.davis61@gmail.com,42,Female,"Nashville, TN",2024-07-31,2026-04-24,47,2770.73,53.43,Debit Card,3,Silver,Low
+CUST0095,Emma Sanchez,emma.sanchez77@gmail.com,41,Male,"San Diego, CA",2023-11-14,2026-06-17,66,18154.12,272.56,Debit Card,2,Platinum,Low
+CUST0096,Brian Campbell,brian.campbell92@yahoo.com,31,Male,"San Antonio, TX",2022-12-22,2026-05-04,84,4605.54,48.29,Buy Now Pay Later,3,Gold,Low
+CUST0097,Cynthia Carter,cynthia.carter82@yahoo.com,58,Non-binary,"Austin, TX",2023-10-10,2025-11-20,61,11235.56,195.77,PayPal,0,Platinum,High
+CUST0098,Amanda Allen,amanda.allen19@gmail.com,50,Male,"Los Angeles, CA",2024-01-26,2026-06-17,83,33563.58,365.43,Google Pay,3,Platinum,Low
+CUST0099,Cynthia Nguyen,cynthia.nguyen80@outlook.com,24,Female,"Denver, CO",2023-01-21,2026-02-22,65,4440.31,78.65,Credit Card,2,Gold,Medium
+CUST0100,David Allen,david.allen92@gmail.com,37,Female,"Charlotte, NC",2024-12-09,2026-04-03,47,7376.89,167.89,Apple Pay,2,Gold,Medium
